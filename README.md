@@ -1,4 +1,4 @@
-# Dijital adli bilişim (RAM/disk imaj inceleme, hash doğrulama) ve OSINT laboratuvar çalışmaları.
+# Adli Bilişim (DFIR) ve OSINT Laboratuvar Analiz Raporları
 
 Bu depo (repository); **Adli Bilişim (Digital Forensics)** ve **Açık Kaynak İstihbaratı (OSINT)** alanlarında gerçekleştirilen pratik laboratuvar çalışmaları, metodoloji dokümanları ve analiz raporlarını içermektedir.
 
