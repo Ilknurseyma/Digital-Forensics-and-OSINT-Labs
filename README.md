@@ -16,6 +16,3 @@ This repository contains practical laboratory walkthroughs, methodology document
 
 ### 2. OSINT & Image Forensics
 - **Metadata Analysis Walkthrough (`TryHackMe Ohsınt Odevi.pdf`):** Geolocation, camera metadata extraction, and hidden flag discovery using `ExifTool` and OSINT methodologies on challenge labs.
-
----
-*Created by İlknur Şeyma Uzun*
